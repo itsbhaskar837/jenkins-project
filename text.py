@@ -1,1 +1,1 @@
-print ("Hello bhi V1")
+printf("Hello bhi V1")
